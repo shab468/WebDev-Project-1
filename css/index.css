@@ -1,5 +1,13 @@
 body {
   font-family: "Bangers";
+  color: whitesmoke;
+  h1{
+    text-shadow: 
+    -1px -1px 0 black,  
+     1px -1px 0 black,  
+    -1px  1px 0 black,  
+     1px  1px 0 black;
+   } /* Creates a black border effect */
   background-color: rgb(188, 149, 245);
   text-align: center;
 }
